@@ -1,0 +1,9 @@
+C:\HPE HUB\WorkShop\GitApiHelper\GitApiHelper\bin\Debug\GitApiHelper.exe.config
+C:\HPE HUB\WorkShop\GitApiHelper\GitApiHelper\bin\Debug\GitApiHelper.exe
+C:\HPE HUB\WorkShop\GitApiHelper\GitApiHelper\bin\Debug\GitApiHelper.pdb
+C:\HPE HUB\WorkShop\GitApiHelper\GitApiHelper\bin\Debug\LibGit2Sharp.dll
+C:\HPE HUB\WorkShop\GitApiHelper\GitApiHelper\bin\Debug\LibGit2Sharp.pdb
+C:\HPE HUB\WorkShop\GitApiHelper\GitApiHelper\bin\Debug\LibGit2Sharp.xml
+C:\HPE HUB\WorkShop\GitApiHelper\GitApiHelper\obj\Debug\GitApiHelper.csprojResolveAssemblyReference.cache
+C:\HPE HUB\WorkShop\GitApiHelper\GitApiHelper\obj\Debug\GitApiHelper.exe
+C:\HPE HUB\WorkShop\GitApiHelper\GitApiHelper\obj\Debug\GitApiHelper.pdb

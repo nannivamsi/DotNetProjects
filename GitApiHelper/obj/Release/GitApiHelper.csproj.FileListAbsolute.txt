@@ -1,0 +1,8 @@
+C:\HPE HUB\WorkShop\GitApiHelper\GitApiHelper\bin\Release\GitApiHelper.exe.config
+C:\HPE HUB\WorkShop\GitApiHelper\GitApiHelper\bin\Release\GitApiHelper.exe
+C:\HPE HUB\WorkShop\GitApiHelper\GitApiHelper\bin\Release\GitApiHelper.pdb
+C:\HPE HUB\WorkShop\GitApiHelper\GitApiHelper\bin\Release\LibGit2Sharp.dll
+C:\HPE HUB\WorkShop\GitApiHelper\GitApiHelper\bin\Release\LibGit2Sharp.pdb
+C:\HPE HUB\WorkShop\GitApiHelper\GitApiHelper\bin\Release\LibGit2Sharp.xml
+C:\HPE HUB\WorkShop\GitApiHelper\GitApiHelper\obj\Release\GitApiHelper.exe
+C:\HPE HUB\WorkShop\GitApiHelper\GitApiHelper\obj\Release\GitApiHelper.pdb
