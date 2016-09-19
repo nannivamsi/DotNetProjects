@@ -36,7 +36,7 @@ namespace GitApiHelper
                 #endregion
                 try
                 {
-                    // Repos Changes 2
+                    // Repos Changes 3
                     Repository.Clone(originalRepoPath, path);
                     CanFetchAllTagsIntoAnEmptyRepository(originalRepoPath, true);
                 }
